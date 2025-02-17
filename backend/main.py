@@ -18,7 +18,7 @@ CORS(app)
 # Initialize the chat engine
 llm_engine = ChatOllama(
     model="deepseek-r1:1.5b",
-    base_url="http://localhost:11434",
+    base_url="https://random-url.ngrok.io",
     temperature=0.3
 )
 
