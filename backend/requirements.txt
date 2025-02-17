@@ -8,3 +8,4 @@ requests
 jsonify
 flask-cors==4.0.0
 httpx==0.25.2
+ollama
