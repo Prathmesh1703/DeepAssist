@@ -3,3 +3,6 @@ langchain_core
 langchain_community
 langchain_ollama
 pdfplumber
+flask==3.0.0
+requests
+jsonify
