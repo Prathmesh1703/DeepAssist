@@ -1,5 +1,5 @@
 # DeepAssist – AI-Powered Coding Assistant
-
+![Prathmesh Bharsakle]([https://via.placeholder.com/800x400](https://i.postimg.cc/fyhFzgC3/preview.jpg))
 DeepAssist is a Generative AI-powered coding assistant designed to help developers solve complex programming problems, debug code, and understand core computer science concepts. It integrates the DeepSeek R1 model with modern NLP pipelines to provide accurate, contextual, and interactive coding support.
 
 ---
